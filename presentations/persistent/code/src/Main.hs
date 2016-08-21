@@ -1,3 +1,5 @@
+-- Code obtained from http://www.yesodweb.com/book/persistent
+
 {-# LANGUAGE EmptyDataDecls             #-}
 {-# LANGUAGE FlexibleContexts           #-}
 {-# LANGUAGE GADTs                      #-}
